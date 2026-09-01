@@ -122,3 +122,6 @@ Episode 01 is the first proof of concept. The workflow and character system will
 **Created and directed by Mohannad Khamra**
 
 3D / AI / Motion Design / Generative Video
+
+
+ https://mkhamra.myportfolio.com/quibble
